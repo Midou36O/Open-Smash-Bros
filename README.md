@@ -3,6 +3,10 @@ Open source "super smash bros" like (proprietary characters (eg. Mario) will be 
 
 # Why?
  I just want to learn how to code games on unity, maybe one day it'll be popular :P
+ 
+# When will you start?
+
+ After exams (around 5 months left)
 
 # Features
 
